@@ -17,3 +17,6 @@ in this pytest project:
 I will deploy the project after every push to the server which AWS
 it is a pytest project or a static website
 for the inspiration I looked at the figure 6-11 of the Python for DevOPs book by Noah Gift
+
+another project:
+textplob for natural language processing.

@@ -20,3 +20,6 @@ for the inspiration I looked at the figure 6-11 of the Python for DevOPs book by
 
 another project:
 textplob for natural language processing.
+
+dataops project:
+using snowflake

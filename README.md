@@ -22,4 +22,4 @@ another project:
 textplob for natural language processing.
 
 dataops project:
-using snowflake
+using snowflake to create etl

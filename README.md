@@ -1,6 +1,8 @@
-# Codespace Exploration (Under development)
+# Codespace & Cloud9 Exploration (Under development)
 
 In this fun project, I am going to learn and leverage codespace in my development environment.
+
+Along with the Codepsace of github, Cloud9 was also used widely in projects
 
 data engineering will be covered part of the practice
 
@@ -23,3 +25,7 @@ textplob for natural language processing.
 
 dataops project:
 using snowflake to create etl
+
+create container in Amazon Container Registry and then use that that container using in Amazon
+App Runner.
+the App is a fastapi which has the Swagger documentation UI for simplicity

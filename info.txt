@@ -2,7 +2,7 @@ textblob:
 it is a package for processing the text 
 
 fire:
-create the command line tools 
+create the command line tool
 
 black:
 it is a package for formatting the python code 
